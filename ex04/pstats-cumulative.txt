@@ -1,0 +1,15 @@
+Thu Jan  9 13:49:16 2025    profile_results.prof
+
+         719070 function calls (696747 primitive calls) in 6.892 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1482 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    127/1    0.001    0.000    6.892    6.892 {built-in method builtins.exec}
+        1    0.001    0.001    6.892    6.892 financial_enhanced.py:1(<module>)
+        1    0.000    0.000    6.891    6.891 financial_enhanced.py:7(main)
+        1    0.000    0.000    6.118    6.118 /home/woolsbub/DS_Bootcamp.Day03-1/src/ex04/woolsbub/lib/python3.12/site-packages/urllib3/_request_methods.py:69(request)
+        1    0.000    0.000    6.118    6.118 /home/woolsbub/DS_Bootcamp.Day03-1/src/ex04/woolsbub/lib/python3.12/site-packages/urllib3/_request_methods.py:147(request_encode_url)
+
+        
